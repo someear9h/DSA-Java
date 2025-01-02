@@ -1,0 +1,66 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "HelloWorld.Hello",
+            "projectName": "Striver_sheet_6190b284"
+        },
+        {
+            "type": "java",
+            "name": "SearchInBST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.SearchInBST",
+            "projectName": "Striver_sheet_6190b284"
+        },
+        {
+            "type": "java",
+            "name": "LeftAndRIghtView",
+            "request": "launch",
+            "mainClass": "LeftAndRIghtView",
+            "projectName": "Striver_sheet_6190b284"
+        },
+        {
+            "type": "cmake",
+            "request": "launch",
+            "name": "CMake: Configure project",
+            "cmakeDebugType": "configure",
+            "clean": false,
+            "configureAll": false
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        },
+        {
+            "type": "cppdbg",
+            "request": "launch",
+            "name": "CMake: Configure project",
+            "cmakeDebugType": "configure",
+            "clean": false,
+            "configureAll": false
+        },
+        {},
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        }
+    ]
+}
