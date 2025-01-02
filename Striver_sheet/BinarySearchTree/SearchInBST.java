@@ -1,5 +1,3 @@
-package BinarySearchTree;
-
 class TreeNode {
     int data;
     TreeNode left;
