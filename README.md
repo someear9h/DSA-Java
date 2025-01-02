@@ -22,7 +22,7 @@ The repository is organized into different folders based on the data structures 
 2. **Java Files**:
    - All Java files related to data structure implementations are located inside the respective subfolders.
 
-## Setup and Usage
+
 
 ### Prerequisites
 
