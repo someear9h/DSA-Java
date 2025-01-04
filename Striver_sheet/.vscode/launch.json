@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LowestCommonAncestor",
+            "request": "launch",
+            "mainClass": "LowestCommonAncestor",
+            "projectName": "Striver_sheet_6190b284"
+        },
+        {
+            "type": "java",
             "name": "Hello",
             "request": "launch",
             "mainClass": "HelloWorld.Hello",
